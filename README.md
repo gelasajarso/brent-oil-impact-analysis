@@ -9,8 +9,6 @@
 This project analyzes **how major geopolitical and economic events influence Brent crude oil prices** using statistical modeling and Bayesian change point detection.  
 By identifying structural breaks in price trends and linking them to real-world events (like OPEC decisions, conflicts, and sanctions), we provide **actionable insights for investors, policymakers, and energy stakeholders**.
 
-Built by **Birhan Energies** as part of its mission to deliver intelligence that empowers strategic energy decisions.
-
 ---
 
 ## 🎯 Business Objective
